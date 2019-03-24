@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <item city="Барнаул" street="Дальняя улица" house="56" floor="2" />
+    <item city="Барнаул" street="Дальняя улица" house="56" floor="2" />
+    <item city="Барнаул" street="Дальняя улица" house="56" floor="2" />
+    <item city="Братск" street="Большая Октябрьская улица" house="65" floor="5" />
+    <item city="Балаково" street="Барыши, местечко" house="67" floor="2" />
+    <item city="Азов" street="Просека, улица" house="156" floor="3" />
+    <item city="Видное" street="Авиаторов, улица" house="185" floor="3" />
+    <item city="Братск" street="7-я Вишнёвая улица" house="49" floor="5" />
+    <item city="Батайск" street="Мостотреста, улица" house="133" floor="4" />
+    <item city="Великий Новгород" street="Филимонковская улица" house="44" floor="1" />
+    <item city="Абакан" street="2-я Валуевская улица" house="172" floor="3" />
+    <item city="Бугульма" street="Варшавское шоссе" house="92" floor="2" />
+    <item city="Ачинск" street="Варшавское шоссе" house="39" floor="4" />
+    <item city="Балашов" street="Учительский переулок" house="184" floor="1" />
+    <item city="Бийск" street="Сиреневая улица" house="14" floor="3" />
+    <item city="Армавир" street="Песчаная улица" house="69" floor="1" />
+    <item city="Ачинск" street="3-я Барышевская улица" house="154" floor="3" />
+    <item city="Астрахань" street="4-й Заречный переулок" house="100" floor="5" />
+    <item city="Владивосток" street="Дальняя улица" house="196" floor="3" />
+    <item city="Белово" street="Симферопольская улица" house="116" floor="1" />
+    <item city="Владивосток" street="Родниковая улица" house="105" floor="1" />
+    <item city="Бугульма" street="Маршала Кутахова, улица" house="91" floor="1" />
+    <item city="Архангельск" street="Лесхозная улица" house="85" floor="3" />
+    <item city="Армавир" street="Евгения Родионова, улица" house="22" floor="4" />
+    <item city="Белебей" street="Маршала Кутахова, улица" house="93" floor="1" />
+    <item city="Астрахань" street="Еловая улица" house="52" floor="5" />
+    <item city="Бийск" street="Вишнёвая улица" house="128" floor="5" />
+    <item city="Абакан" street="Симферопольская улица" house="177" floor="2" />
+    <item city="Благовещенск" street="Михаила Кондакова, улица" house="31" floor="2" />
+    <item city="Братск" street="2-я Катерная улица" house="60" floor="4" />
+    <item city="Буйнакск" street="Московская улица" house="142" floor="2" />
+    <item city="Балаково" street="Лагерная улица" house="122" floor="4" />
+    <item city="Абакан" street="Барышевская улица" house="69" floor="3" />
+    <item city="Балашов" street="1-й Богородский переулок" house="7" floor="1" />
+    <item city="Бердск" street="4-я Майская улица" house="53" floor="3" />
+    <item city="Бугульма" street="1-я Мичуринская улица" house="13" floor="4" />
+    <item city="Ангарск" street="5-я Майская улица" house="197" floor="3" />
+    <item city="Анжеро-Судженск" street="Люблинская улица" house="42" floor="1" />
+    <item city="Балашиха" street="Живописная улица" house="113" floor="2" />
+    <item city="Брянск" street="1-я Майская улица" house="20" floor="1" />
+    <item city="Бор" street="Барышевская Роща, улица" house="52" floor="2" />
+    <item city="Благовещенск" street="Спортивная улица" house="3" floor="3" />
+    <item city="Видное" street="Первомайская улица" house="92" floor="2" />
+    <item city="Астрахань" street="2-я Мичуринская улица" house="2" floor="4" />
+    <item city="Верхняя Пышма" street="Бутовское Кольцо, улица" house="178" floor="2" />
+    <item city="Арзамас" street="Герцена, улица" house="83" floor="5" />
+    <item city="Благовещенск" street="Центральная улица" house="161" floor="5" />
+    <item city="Бор" street="Большая Октябрьская улица" house="140" floor="3" />
+    <item city="Березовский" street="1-я Валуевская улица" house="77" floor="1" />
+    <item city="Артем" street="Михаила Кондакова, улица" house="177" floor="5" />
+    <item city="Архангельск" street="Фруктовая улица" house="135" floor="2" />
+    <item city="Великие Луки" street="Звёздная улица" house="188" floor="1" />
+    <item city="Благовещенск" street="1-й Богородский переулок" house="79" floor="1" />
+    <item city="Бийск" street="Вишнёвая улица" house="178" floor="3" />
+    <item city="Ангарск" street="Космонавтов, улица" house="123" floor="3" />
+    <item city="Бийск" street="Комсомольская улица" house="3" floor="2" />
+    <item city="Березники" street="Парковая улица" house="149" floor="1" />
+    <item city="Белорецк" street="Овражная улица" house="97" floor="3" />
+    <item city="Алексин" street="Речная улица" house="185" floor="1" />
+    <item city="Апатиты" street="Совхозная улица" house="87" floor="4" />
+    <item city="Абакан" street="Пушковых, улица" house="97" floor="2" />
+    <item city="Березники" street="Заречная улица" house="10" floor="2" />
+    <item city="Брянск" street="Комсомольский переулок" house="136" floor="3" />
+    <item city="Барнаул" street="Комсомольский проезд" house="91" floor="3" />
+    <item city="Арсеньев" street="Мостотреста, улица" house="13" floor="1" />
+    <item city="Бийск" street="Светлая улица" house="147" floor="4" />
+    <item city="Альметьевск" street="3-я Пионерская улица" house="176" floor="2" />
+    <item city="Белореченск" street="Суворова, улица" house="121" floor="4" />
+    <item city="Боровичи" street="Быковская улица" house="2" floor="2" />
+    <item city="Асбест" street="Щербинский проезд" house="110" floor="1" />
+    <item city="Бор" street="Сиреневый бульвар" house="198" floor="5" />
+    <item city="Белебей" street="Суворова, улица" house="139" floor="4" />
+    <item city="Бердск" street="Флотская улица" house="197" floor="1" />
+    <item city="Анжеро-Судженск" street="Остафьевская улица" house="85" floor="1" />
+    <item city="Видное" street="Большая Октябрьская улица" house="174" floor="4" />
+    <item city="Березовский" street="Академическая улица" house="80" floor="4" />
+    <item city="Балашиха" street="Кооперативная улица" house="13" floor="1" />
+    <item city="Анжеро-Судженск" street="2-я Рыбацкая улица" house="71" floor="5" />
+    <item city="Астрахань" street="Флотская улица" house="84" floor="1" />
+    <item city="Белореченск" street="Михаила Кондакова, улица" house="196" floor="4" />
+    <item city="Буйнакск" street="Космонавтов, улица" house="189" floor="5" />
+    <item city="Белогорск" street="Рождественская улица" house="73" floor="1" />
+    <item city="Барнаул" street="1-я Катерная улица" house="62" floor="3" />
+    <item city="Абакан" street="Рассветная улица" house="179" floor="4" />
+    <item city="Белореченск" street="Прудная улица" house="25" floor="5" />
+    <item city="Анжеро-Судженск" street="Калужское шоссе" house="67" floor="5" />
+    <item city="Борисоглебск" street="1-я Мичуринская улица" house="51" floor="1" />
+    <item city="Буденновск" street="Кленовый переулок" house="139" floor="5" />
+    <item city="Балашиха" street="Рыбацкий переулок" house="107" floor="5" />
+    <item city="Березники" street="4-я Майская улица" house="172" floor="4" />
+    <item city="Анжеро-Судженск" street="Пионерский проезд" house="131" floor="3" />
+    <item city="Батайск" street="Колобенка, улица" house="68" floor="2" />
+    <item city="Балахна" street="4-я Майская улица" house="55" floor="2" />
+    <item city="Арсеньев" street="Железнодорожная улица" house="32" floor="1" />
+    <item city="Великий Новгород" street="Текстильщиков, улица" house="14" floor="2" />
+    <item city="Владивосток" street="2-я Пионерская, улица" house="128" floor="2" />
+    <item city="Брянск" street="Симферопольское шоссе" house="147" floor="5" />
+    <item city="Бердск" street="Авиаторов, улица" house="153" floor="3" />
+    <item city="Альметьевск" street="4-я Майская улица" house="42" floor="1" />
+    <item city="Боровичи" street="Флотская улица" house="81" floor="5" />
+    <item city="Арзамас" street="СНТ Волна, улица" house="22" floor="3" />
+    <item city="Бердск" street="2-я Лазурная улица" house="100" floor="5" />
+    <item city="Биробиджан" street="3-я Пионерская улица" house="120" floor="5" />
+    <item city="Астрахань" street="Живописная улица" house="173" floor="3" />
+    <item city="Белебей" street="Сатинская аллея" house="76" floor="1" />
+    <item city="Борисоглебск" street="Полковника милиции Курочкина, улица" house="194" floor="2" />
+    <item city="Буйнакск" street="Рабочая улица" house="123" floor="4" />
+    <item city="Ангарск" street="Герцена, улица" house="53" floor="1" />
+    <item city="Бор" street="Фруктовая улица" house="121" floor="2" />
+    <item city="Владивосток" street="Героя России Чернышёва, улица" house="20" floor="1" />
+    <item city="Бор" street="Парковая улица" house="166" floor="5" />
+    <item city="Буйнакск" street="Дзержинского, улица" house="143" floor="4" />
+    <item city="Апатиты" street="Цветочная улица" house="45" floor="3" />
+    <item city="Анжеро-Судженск" street="Красноармейская улица" house="30" floor="1" />
+    <item city="Армавир" street="Сиреневая улица" house="48" floor="3" />
+    <item city="Азов" street="Заречная улица" house="147" floor="4" />
+    <item city="Братск" street="Кирова, улица" house="38" floor="2" />
+    <item city="Владивосток" street="Июльская улица" house="121" floor="4" />
+    <item city="Артем" street="Восточная улица" house="40" floor="1" />
+    <item city="Белогорск" street="Осенняя улица" house="63" floor="1" />
+    <item city="Батайск" street="Полковника милиции Курочкина, улица" house="67" floor="4" />
+    <item city="Абакан" street="1-я Майская улица" house="169" floor="4" />
+    <item city="Боровичи" street="3-я Барышевская улица" house="16" floor="1" />
+    <item city="Апатиты" street="Гоголя, улица" house="153" floor="4" />
+    <item city="Азов" street="Изумрудная улица" house="194" floor="5" />
+    <item city="Буденновск" street="Заозёрная улица" house="141" floor="1" />
+    <item city="Апатиты" street="Суворова, улица" house="68" floor="1" />
+    <item city="Владивосток" street="Тупик, улица" house="79" floor="1" />
+    <item city="Армавир" street="3-я Рыбацкая улица" house="41" floor="1" />
+    <item city="Архангельск" street="Комсомольский проезд" house="112" floor="3" />
+    <item city="Балаково" street="Прудная улица" house="79" floor="3" />
+    <item city="Батайск" street="Толбухина, улица" house="188" floor="3" />
+    <item city="Артем" street="2-я Барышевская улица" house="186" floor="3" />
+    <item city="Барнаул" street="Песчаная улица" house="99" floor="2" />
+    <item city="Верхняя Пышма" street="1-я Валуевская улица" house="93" floor="2" />
+    <item city="Березники" street="Железнодорожная улица" house="88" floor="4" />
+    <item city="Буденновск" street="Филимонковская улица" house="95" floor="2" />
+    <item city="Алексин" street="Текстильщиков, улица" house="53" floor="5" />
+    <item city="Бор" street="Родниковая улица" house="68" floor="4" />
+    <item city="Александров" street="Западная улица" house="131" floor="4" />
+    <item city="Астрахань" street="3-я Майская улица" house="164" floor="3" />
+    <item city="Белово" street="Пушкинская улица" house="121" floor="5" />
+    <item city="Белово" street="1-й Терновый переулок" house="109" floor="3" />
+    <item city="Великий Новгород" street="Фабричная площадь" house="171" floor="3" />
+    <item city="Буденновск" street="Быковская улица" house="74" floor="5" />
+    <item city="Бузулук" street="Авиационная улица" house="72" floor="4" />
+    <item city="Буйнакск" street="Южный квартал" house="117" floor="1" />
+    <item city="Бор" street="Герцена, улица" house="37" floor="2" />
+    <item city="Бор" street="Новостройка, улица" house="109" floor="5" />
+    <item city="Батайск" street="Институтская улица" house="157" floor="3" />
+    <item city="Белореченск" street="6-й Кленовый переулок" house="158" floor="4" />
+    <item city="Белебей" street="2-я Пионерская, улица" house="103" floor="4" />
+    <item city="Боровичи" street="Генерала Максимчука, улица" house="118" floor="2" />
+    <item city="Белово" street="Звёздная улица" house="169" floor="5" />
+    <item city="Великий Новгород" street="Заводская улица" house="21" floor="4" />
+    <item city="Березники" street="6-й Кленовый переулок" house="162" floor="3" />
+    <item city="Бердск" street="Заводская улица" house="46" floor="4" />
+    <item city="Апатиты" street="Тихая улица" house="101" floor="3" />
+    <item city="Балахна" street="1-я Валуевская улица" house="98" floor="4" />
+    <item city="Архангельск" street="Академика Верещагина, площадь" house="26" floor="2" />
+    <item city="Балашов" street="Маяковского, улица" house="121" floor="5" />
+    <item city="Арзамас" street="3-я Рыбацкая улица" house="7" floor="1" />
+    <item city="Ачинск" street="Изумрудная улица" house="108" floor="4" />
+    <item city="Верхняя Пышма" street="Колхозная улица" house="69" floor="5" />
+    <item city="Балашов" street="Дальняя улица" house="115" floor="4" />
+    <item city="Александров" street="Садовый Квартал, улица" house="28" floor="1" />
+    <item city="Артем" street="Рабочая улица" house="181" floor="1" />
+    <item city="Балаково" street="Бутовский тупик" house="115" floor="3" />
+    <item city="Армавир" street="1-я Катерная улица" house="185" floor="5" />
+    <item city="Борисоглебск" street="Пушкинская улица" house="68" floor="1" />
+    <item city="Александров" street="3-я Пионерская улица" house="111" floor="1" />
+    <item city="Белогорск" street="2-я Рыбацкая улица" house="181" floor="5" />
+    <item city="Арзамас" street="Капитанская улица" house="112" floor="5" />
+    <item city="Барнаул" street="Рождественская улица" house="10" floor="2" />
+    <item city="Березовский" street="2-я Валуевская улица" house="42" floor="4" />
+    <item city="Артем" street="Заречная улица" house="94" floor="2" />
+    <item city="Армавир" street="Маяковского, улица" house="108" floor="2" />
+    <item city="Артем" street="Кооперативная улица" house="9" floor="3" />
+    <item city="Бузулук" street="2-я Вишнёвая улица" house="161" floor="5" />
+    <item city="Белебей" street="Кооперативная улица" house="48" floor="4" />
+    <item city="Батайск" street="Чапаева, улица" house="89" floor="1" />
+    <item city="Бузулук" street="Лесная улица" house="115" floor="2" />
+    <item city="Березовский" street="Комсомольская улица" house="100" floor="3" />
+    <item city="Армавир" street="Новая улица" house="16" floor="2" />
+    <item city="Барнаул" street="Ясная улица" house="144" floor="4" />
+    <item city="Великие Луки" street="Мичурина, улица" house="41" floor="4" />
+    <item city="Бузулук" street="Чапаева, улица" house="95" floor="5" />
+    <item city="Видное" street="Трудовая улица" house="189" floor="5" />
+    <item city="Апатиты" street="Набережная улица" house="52" floor="2" />
+    <item city="Видное" street="Первомайская улица" house="67" floor="2" />
+    <item city="Балаково" street="Городская улица" house="176" floor="2" />
+    <item city="Арсеньев" street="Новостроевская улица" house="94" floor="1" />
+    <item city="Бугульма" street="Лесная улица" house="109" floor="2" />
+    <item city="Анжеро-Судженск" street="1-й Богородский переулок" house="178" floor="4" />
+    <item city="Видное" street="Андреевская улица" house="11" floor="5" />
+    <item city="Анжеро-Судженск" street="Дзержинского, улица" house="140" floor="2" />
+    <item city="Ачинск" street="Чапаева, улица" house="180" floor="1" />
+    <item city="Биробиджан" street="Первомайская улица" house="147" floor="2" />
+    <item city="Александров" street="Летняя улица" house="181" floor="3" />
+    <item city="Алексин" street="Весенняя улица" house="47" floor="5" />
+    <item city="Балашов" street="3-й Кленовый переулок" house="150" floor="2" />
+    <item city="Березовский" street="Академическая улица" house="64" floor="4" />
+    <item city="Бузулук" street="Южная улица" house="67" floor="3" />
+    <item city="Анжеро-Судженск" street="2-я Изумрудная улица" house="190" floor="3" />
+    <item city="Ачинск" street="Мостотреста, улица" house="41" floor="2" />
+    <item city="Апатиты" street="Светлая улица" house="40" floor="1" />
+    <item city="Белебей" street="Светлый бульвар" house="119" floor="5" />
+    <item city="Анапа" street="Сорок Лет Октября, улица" house="131" floor="1" />
+    <item city="Балахна" street="Июльская улица" house="48" floor="2" />
+    <item city="Альметьевск" street="Изумрудная улица" house="168" floor="1" />
+    <item city="Боровичи" street="Большая Октябрьская улица" house="124" floor="1" />
+    <item city="Батайск" street="Лесная улица (поселок Щапово)" house="178" floor="5" />
+    <item city="Асбест" street="Ягодная улица" house="51" floor="3" />
+    <item city="Благовещенск" street="Радужная улица" house="159" floor="1" />
+    <item city="Бердск" street="Песчаная улица" house="198" floor="4" />
+    <item city="Братск" street="Анны Воиновой, улица" house="80" floor="4" />
+    <item city="Бор" street="Андреевская улица" house="196" floor="2" />
+    <item city="Верхняя Пышма" street="Горка, улица" house="123" floor="4" />
+    <item city="Братск" street="Октябрьский проспект" house="9" floor="1" />
+    <item city="Бердск" street="Заозёрная улица" house="1" floor="3" />
+    <item city="Белово" street="Песчаная улица" house="140" floor="1" />
+    <item city="Братск" street="Киевское шоссе" house="166" floor="4" />
+    <item city="Белогорск" street="Московская улица" house="181" floor="3" />
+    <item city="Борисоглебск" street="Институтская улица" house="70" floor="4" />
+    <item city="Бузулук" street="Спортивная улица" house="80" floor="2" />
+    <item city="Братск" street="Сиреневая улица" house="107" floor="2" />
+    <item city="Артем" street="4-й Заречный переулок" house="199" floor="1" />
+    <item city="Бор" street="Русинская Роща, улица" house="182" floor="3" />
+    <item city="Брянск" street="Физическая улица" house="155" floor="4" />
+    <item city="Апатиты" street="Улица Александровы Пруды" house="135" floor="5" />
+    <item city="Бор" street="Высотная улица" house="47" floor="3" />
+    <item city="Белово" street="Южная улица" house="34" floor="1" />
+    <item city="Александров" street="Генерала Максимчука, улица" house="141" floor="4" />
+    <item city="Абакан" street="Кирова, улица" house="134" floor="2" />
+    <item city="Брянск" street="Новостроевская улица" house="167" floor="3" />
+    <item city="Великие Луки" street="Фабричная площадь" house="47" floor="1" />
+    <item city="Архангельск" street="Почтовая улица" house="172" floor="4" />
+    <item city="Видное" street="Заозёрная улица" house="70" floor="3" />
+    <item city="Бор" street="Восточная улица" house="117" floor="2" />
+    <item city="Бийск" street="Прудная улица" house="30" floor="5" />
+    <item city="Балахна" street="Пушковых, улица" house="132" floor="5" />
+    <item city="Апатиты" street="Михаила Кондакова, улица" house="149" floor="2" />
+    <item city="Верхняя Пышма" street="Генерала Максимчука, улица" house="134" floor="4" />
+    <item city="Бугульма" street="2-я Центральная улица" house="194" floor="5" />
+    <item city="Белогорск" street="Филимонковская улица" house="62" floor="4" />
+    <item city="Балаково" street="5-я Вишнёвая улица" house="88" floor="3" />
+    <item city="Ангарск" street="Водопроводная улица" house="172" floor="4" />
+    <item city="Балаково" street="Ново-Западная улица" house="158" floor="3" />
+    <item city="Бор" street="3-я Лазурная улица" house="120" floor="5" />
+    <item city="Бор" street="Евгения Родионова, улица" house="181" floor="2" />
+    <item city="Балаково" street="Речная улица" house="165" floor="5" />
+    <item city="Владивосток" street="Почтовая улица" house="46" floor="4" />
+    <item city="Армавир" street="Киевское шоссе" house="55" floor="2" />
+    <item city="Ачинск" street="Стасовой, улица" house="105" floor="3" />
+    <item city="Астрахань" street="Кленовый переулок" house="105" floor="2" />
+    <item city="Видное" street="Западная улица" house="9" floor="5" />
+    <item city="Барнаул" street="Озёрная улица" house="192" floor="2" />
+    <item city="Бугульма" street="2-я Катерная улица" house="18" floor="2" />
+    <item city="Бузулук" street="Сатинская аллея" house="198" floor="2" />
+    <item city="Верхняя Пышма" street="1-я Мичуринская улица" house="9" floor="5" />
+    <item city="Александров" street="4-й Кленовый переулок" house="113" floor="3" />
+    <item city="Анжеро-Судженск" street="Институтская улица" house="90" floor="2" />
+    <item city="Апатиты" street="Быковская улица" house="176" floor="5" />
+    <item city="Алексин" street="Киевское шоссе" house="2" floor="1" />
+    <item city="Владивосток" street="5-я Вишнёвая улица" house="113" floor="2" />
+    <item city="Белогорск" street="Чехова, улица" house="60" floor="2" />
+    <item city="Белогорск" street="Еловая улица" house="34" floor="3" />
+    <item city="Ачинск" street="Стасовой, улица" house="156" floor="2" />
+    <item city="Анапа" street="Красноармейская улица" house="137" floor="2" />
+    <item city="Верхняя Пышма" street="Текстильщиков, улица" house="31" floor="1" />
+    <item city="Белебей" street="Ягодная улица" house="10" floor="2" />
+    <item city="Верхняя Пышма" street="Чайковского, улица" house="55" floor="3" />
+    <item city="Борисоглебск" street="Авиаторов, улица" house="182" floor="4" />
+    <item city="Балашов" street="Лесная улица (поселок Щапово)" house="118" floor="2" />
+    <item city="Видное" street="Флотская улица" house="190" floor="1" />
+    <item city="Великие Луки" street="Чкалова, улица" house="151" floor="4" />
+    <item city="Анжеро-Судженск" street="2-я Лазурная улица" house="140" floor="4" />
+    <item city="Батайск" street="Олега Кошевого, улица" house="139" floor="5" />
+    <item city="Балахна" street="Просека, улица" house="23" floor="2" />
+    <item city="Биробиджан" street="Просека, улица" house="24" floor="1" />
+    <item city="Балахна" street="Большая Октябрьская улица" house="145" floor="5" />
+    <item city="Белогорск" street="7-я Вишнёвая улица" house="125" floor="5" />
+    <item city="Апатиты" street="Рассветная улица" house="132" floor="2" />
+    <item city="Барнаул" street="Промышленная улица" house="122" floor="5" />
+    <item city="Благовещенск" street="5-я Вишнёвая улица" house="98" floor="4" />
+    <item city="Апатиты" street="Генерала Трошева, улица" house="104" floor="3" />
+    <item city="Бердск" street="4-я Майская улица" house="64" floor="2" />
+    <item city="Барнаул" street="Луговая улица" house="49" floor="4" />
+    <item city="Астрахань" street="4-я Вишнёвая улица" house="122" floor="1" />
+    <item city="Белово" street="3-я Рыбацкая улица" house="23" floor="4" />
+    <item city="Боровичи" street="6-я Вишнёвая улица" house="38" floor="5" />
+    <item city="Асбест" street="Песчаная улица" house="55" floor="3" />
+    <item city="Братск" street="1-я Катерная улица" house="34" floor="4" />
+    <item city="Белореченск" street="2-я Изумрудная улица" house="174" floor="2" />
+    <item city="Александров" street="Школьная улица" house="75" floor="3" />
+    <item city="Балашиха" street="Луговая улица" house="9" floor="3" />
+    <item city="Анжеро-Судженск" street="Колхозная улица" house="5" floor="3" />
+    <item city="Братск" street="2-й Богородский переулок" house="186" floor="3" />
+    <item city="Александров" street="Песчаная улица" house="197" floor="4" />
+    <item city="Белогорск" street="Академическая площадь" house="110" floor="4" />
+    <item city="Артем" street="Горка, улица" house="63" floor="3" />
+    <item city="Балашиха" street="Южная улица" house="53" floor="4" />
+    <item city="Арзамас" street="Песчаная улица" house="94" floor="4" />
+    <item city="Верхняя Пышма" street="3-я Вишнёвая улица" house="94" floor="4" />
+    <item city="Бор" street="Комсомольский переулок" house="50" floor="3" />
+    <item city="Брянск" street="6-я Вишнёвая улица" house="176" floor="3" />
+    <item city="Буйнакск" street="3-я Вишнёвая улица" house="59" floor="3" />
+    <item city="Видное" street="Берёзовая улица" house="123" floor="4" />
+    <item city="Бузулук" street="Колхозная улица" house="56" floor="3" />
+    <item city="Азов" street="Учительский переулок" house="188" floor="5" />
+    <item city="Белово" street="Ясная улица" house="133" floor="1" />
+    <item city="Белебей" street="2-я Рыбацкая улица" house="48" floor="3" />
+    <item city="Балашиха" street="2-я Центральная улица" house="165" floor="2" />
+    <item city="Алексин" street="3-я Лазурная улица" house="156" floor="5" />
+    <item city="Анапа" street="1-я Катерная улица" house="107" floor="1" />
+    <item city="Ангарск" street="Капитанская улица" house="34" floor="4" />
+    <item city="Великий Новгород" street="Промышленная улица" house="138" floor="3" />
+    <item city="Братск" street="Нагорная улица" house="124" floor="1" />
+    <item city="Белореченск" street="Барышевская улица" house="126" floor="2" />
+    <item city="Балаково" street="Кленовый переулок" house="98" floor="5" />
+    <item city="Великий Новгород" street="Дорожная улица" house="96" floor="1" />
+    <item city="Арзамас" street="Театральная улица" house="92" floor="4" />
+    <item city="Ангарск" street="5-я Майская улица" house="68" floor="3" />
+    <item city="Балашов" street="Садовый квартал, улица" house="95" floor="5" />
+    <item city="Борисоглебск" street="3-й Богородский переулок" house="35" floor="2" />
+    <item city="Архангельск" street="1-я Изумрудная улица" house="72" floor="3" />
+    <item city="Арсеньев" street="Пионерская улица" house="174" floor="2" />
+    <item city="Анжеро-Судженск" street="Зелёная улица" house="63" floor="2" />
+    <item city="Бийск" street="Ломоносова, улица" house="19" floor="1" />
+    <item city="Армавир" street="Сатинская аллея" house="65" floor="1" />
+    <item city="Боровичи" street="Садовая улица" house="91" floor="4" />
+    <item city="Бор" street="Западная улица" house="199" floor="3" />
+    <item city="Абакан" street="Чапаева, улица" house="154" floor="4" />
+    <item city="Борисоглебск" street="Нагорная улица" house="130" floor="2" />
+    <item city="Алексин" street="Заречная улица" house="167" floor="1" />
+    <item city="Барнаул" street="Анны Воиновой, улица" house="84" floor="4" />
+    <item city="Белебей" street="Колхозная улица" house="124" floor="1" />
+    <item city="Балахна" street="Садовая улица" house="107" floor="2" />
+    <item city="Анапа" street="Флотская улица" house="180" floor="1" />
+    <item city="Белогорск" street="Полковника милиции Курочкина, улица" house="150" floor="2" />
+    <item city="Балахна" street="Прудовая улица" house="36" floor="3" />
+    <item city="Балаково" street="Стасовой, улица" house="55" floor="4" />
+    <item city="Балахна" street="2-я Пионерская, улица" house="164" floor="1" />
+    <item city="Армавир" street="Набережная улица" house="4" floor="5" />
+    <item city="Асбест" street="Радужная улица" house="138" floor="2" />
+    <item city="Белореченск" street="1-й Богородский переулок" house="121" floor="3" />
+    <item city="Владивосток" street="Дорожная улица" house="117" floor="5" />
+    <item city="Асбест" street="Пушкинская улица" house="96" floor="4" />
+    <item city="Боровичи" street="Зелёная улица" house="156" floor="2" />
+    <item city="Анапа" street="Железнодорожная улица" house="192" floor="3" />
+    <item city="Видное" street="3-я Майская улица" house="76" floor="4" />
+    <item city="Буденновск" street="4-й Кленовый переулок" house="113" floor="5" />
+    <item city="Буйнакск" street="Быковская улица" house="199" floor="1" />
+    <item city="Балахна" street="2-я Барышевская улица" house="29" floor="5" />
+    <item city="Бийск" street="Лесхозная улица" house="98" floor="3" />
+    <item city="Арсеньев" street="Лесхозная улица" house="120" floor="1" />
+    <item city="Астрахань" street="Берёзовая улица (деревня Бурцево)" house="45" floor="2" />
+    <item city="Буйнакск" street="Генерала Трошева, улица" house="62" floor="1" />
+    <item city="Альметьевск" street="Колхозная улица" house="175" floor="2" />
+    <item city="Белорецк" street="Дошкольная улица" house="168" floor="2" />
+    <item city="Абакан" street="Кооперативная улица" house="29" floor="5" />
+    <item city="Березники" street="2-я Пионерская, улица" house="180" floor="2" />
+    <item city="Верхняя Пышма" street="Фабричная площадь" house="13" floor="5" />
+    <item city="Балашов" street="6-я Вишнёвая улица" house="48" floor="1" />
+    <item city="Благовещенск" street="Флотская улица" house="145" floor="2" />
+    <item city="Азов" street="2-я Катерная улица" house="132" floor="1" />
+    <item city="Биробиджан" street="1-я Пионерская улица" house="21" floor="2" />
+    <item city="Альметьевск" street="Садовая улица" house="180" floor="1" />
+    <item city="Бор" street="Живописная улица" house="79" floor="2" />
+    <item city="Арсеньев" street="1-я Рыбацкая улица" house="80" floor="4" />
+    <item city="Великие Луки" street="Киевское шоссе" house="103" floor="1" />
+    <item city="Ангарск" street="Текстильщиков, улица" house="136" floor="4" />
+    <item city="Артем" street="Рыбацкий переулок" house="11" floor="2" />
+    <item city="Балашов" street="Академическая площадь" house="163" floor="3" />
+    <item city="Березники" street="Евгения Родионова, улица" house="11" floor="5" />
+    <item city="Бор" street="4-й Кленовый переулок" house="15" floor="4" />
+    <item city="Боровичи" street="Михаила Кондакова, улица" house="22" floor="4" />
+    <item city="Бор" street="1-я Барышевская улица" house="12" floor="5" />
+    <item city="Алексин" street="Симферопольская улица" house="33" floor="1" />
+    <item city="Балашиха" street="Прудовая улица" house="33" floor="1" />
+    <item city="Балахна" street="Майская улица" house="173" floor="3" />
+    <item city="Березники" street="Киевское шоссе" house="75" floor="5" />
+    <item city="Бугульма" street="Партизанская улица" house="140" floor="1" />
+    <item city="Владивосток" street="Изумрудная улица" house="143" floor="1" />
+    <item city="Белореченск" street="Лагерная улица" house="25" floor="4" />
+    <item city="Ангарск" street="Симферопольское шоссе" house="157" floor="3" />
+    <item city="Брянск" street="Берёзовая улица (поселок Марьино)" house="115" floor="1" />
+    <item city="Ангарск" street="Прудовая улица" house="161" floor="5" />
+    <item city="Балашов" street="Фабричная площадь" house="74" floor="3" />
+    <item city="Алексин" street="4-й Богородский переулок" house="143" floor="1" />
+    <item city="Владивосток" street="Пионерская улица" house="54" floor="3" />
+    <item city="Видное" street="Суворова, улица" house="75" floor="4" />
+    <item city="Великий Новгород" street="Радужная улица" house="19" floor="5" />
+    <item city="Армавир" street="Дзержинского, улица" house="148" floor="2" />
+    <item city="Белебей" street="Лагерный переулок" house="59" floor="4" />
+    <item city="Видное" street="Авиационная улица" house="195" floor="1" />
+    <item city="Артем" street="Нагорная улица" house="166" floor="4" />
+    <item city="Абакан" street="Просека, улица" house="189" floor="4" />
+    <item city="Арсеньев" street="Рождественский переулок" house="69" floor="2" />
+    <item city="Боровичи" street="Совхозная улица" house="155" floor="4" />
+    <item city="Белореченск" street="Котовского, улица" house="153" floor="2" />
+    <item city="Бердск" street="3-я Лазурная улица" house="31" floor="4" />
+    <item city="Верхняя Пышма" street="6-я Вишнёвая улица" house="194" floor="2" />
+    <item city="Бузулук" street="Восточная улица" house="195" floor="1" />
+    <item city="Бийск" street="Комсомольский переулок" house="138" floor="2" />
+    <item city="Борисоглебск" street="1-я Центральная улица" house="95" floor="5" />
+    <item city="Бийск" street="Ломоносова, улица" house="107" floor="4" />
+    <item city="Абакан" street="1-я Катерная улица" house="68" floor="2" />
+    <item city="Владивосток" street="Софийская улица" house="74" floor="4" />
+    <item city="Верхняя Пышма" street="Дружбы, улица" house="87" floor="4" />
+    <item city="Благовещенск" street="Академика Верещагина, площадь" house="24" floor="5" />
+    <item city="Анжеро-Судженск" street="4-й Заречный переулок" house="186" floor="1" />
+    <item city="Ачинск" street="5-я Вишнёвая улица" house="7" floor="3" />
+    <item city="Великие Луки" street="1-й Заречный переулок" house="28" floor="1" />
+    <item city="Балахна" street="Лагерный переулок" house="160" floor="5" />
+    <item city="Ачинск" street="4-й Заречный переулок" house="61" floor="1" />
+    <item city="Ангарск" street="Люблинская улица" house="132" floor="5" />
+    <item city="Алексин" street="Фабричная площадь" house="137" floor="5" />
+    <item city="Буйнакск" street="Анатолия Харлампиева, улица" house="185" floor="4" />
+    <item city="Белогорск" street="Мичурина, улица" house="61" floor="3" />
+    <item city="Балахна" street="Кленовый переулок" house="172" floor="4" />
+    <item city="Борисоглебск" street="Лермонтова, улица" house="52" floor="3" />
+    <item city="Асбест" street="2-я Майская улица" house="176" floor="5" />
+    <item city="Березники" street="Люблинская улица" house="83" floor="3" />
+    <item city="Буденновск" street="Советская улица" house="13" floor="3" />
+    <item city="Армавир" street="Зелёная улица" house="136" floor="5" />
+    <item city="Великие Луки" street="Радужная улица" house="66" floor="5" />
+    <item city="Анжеро-Судженск" street="Дачная улица" house="176" floor="4" />
+    <item city="Боровичи" street="Флотская улица" house="177" floor="4" />
+    <item city="Александров" street="Южный квартал" house="85" floor="4" />
+    <item city="Арзамас" street="Щербинский проезд" house="58" floor="3" />
+    <item city="Брянск" street="Майская улица" house="83" floor="3" />
+    <item city="Балашиха" street="Анны Воиновой, улица" house="140" floor="2" />
+    <item city="Батайск" street="Лесхозная улица" house="162" floor="5" />
+    <item city="Березовский" street="Ново-Западная улица" house="103" floor="4" />
+    <item city="Белово" street="Быковская улица" house="116" floor="3" />
+    <item city="Анапа" street="Советская улица" house="108" floor="1" />
+    <item city="Бугульма" street="6-я Вишнёвая улица" house="194" floor="5" />
+    <item city="Бузулук" street="4-й Богородский переулок" house="140" floor="5" />
+    <item city="Барнаул" street="Октябрьская улица" house="24" floor="1" />
+    <item city="Братск" street="Луговая улица" house="162" floor="5" />
+    <item city="Алексин" street="Весенняя улица" house="115" floor="2" />
+    <item city="Барнаул" street="Кооперативная улица" house="28" floor="5" />
+    <item city="Абакан" street="Дзержинского, улица" house="71" floor="1" />
+    <item city="Благовещенск" street="Первомайская улица" house="79" floor="1" />
+    <item city="Великие Луки" street="5-я Майская улица" house="28" floor="2" />
+    <item city="Артем" street="4-й Кленовый переулок" house="82" floor="5" />
+    <item city="Бор" street="Парковый переулок" house="196" floor="5" />
+    <item city="Астрахань" street="Рабочая улица" house="74" floor="1" />
+    <item city="Бугульма" street="Горка, улица" house="73" floor="4" />
+    <item city="Бердск" street="Генерала Трошева, улица" house="58" floor="1" />
+    <item city="Борисоглебск" street="Заозёрная улица" house="187" floor="3" />
+    <item city="Арсеньев" street="3-я Лазурная улица" house="124" floor="4" />
+    <item city="Верхняя Пышма" street="Ново-Западная улица" house="26" floor="1" />
+    <item city="Арзамас" street="Чайковского, улица" house="107" floor="5" />
+    <item city="Березники" street="4-й Кленовый переулок" house="9" floor="2" />
+    <item city="Ангарск" street="Индустриальная улица" house="2" floor="2" />
+    <item city="Братск" street="Авиационная улица" house="43" floor="3" />
+    <item city="Бердск" street="Рассветная улица" house="79" floor="2" />
+    <item city="Балахна" street="Колхозная улица" house="144" floor="3" />
+    <item city="Альметьевск" street="Светлый бульвар" house="36" floor="3" />
+    <item city="Анапа" street="Бутовский тупик" house="34" floor="2" />
+    <item city="Видное" street="Ново-Западная улица" house="192" floor="5" />
+    <item city="Балаково" street="Южный квартал" house="40" floor="4" />
+    <item city="Белогорск" street="3-я Майская улица" house="33" floor="3" />
+    <item city="Братск" street="Парковая улица" house="36" floor="3" />
+    <item city="Бийск" street="Дальняя улица" house="37" floor="4" />
+    <item city="Белгород" street="Рождественский переулок" house="162" floor="5" />
+    <item city="Ачинск" street="Автомобильная дорога А-107" house="75" floor="5" />
+    <item city="Буденновск" street="4-й Богородский переулок" house="134" floor="5" />
+    <item city="Белгород" street="Подольская улица" house="92" floor="4" />
+    <item city="Бугульма" street="Лермонтова, улица" house="142" floor="2" />
+    <item city="Белогорск" street="Барышевская Роща, улица" house="114" floor="1" />
+    <item city="Алексин" street="5-я Майская улица" house="192" floor="1" />
+    <item city="Артем" street="Маршала Кутахова, улица" house="67" floor="3" />
+    <item city="Великие Луки" street="Подольская улица" house="113" floor="4" />
+    <item city="Березники" street="Калужское шоссе" house="43" floor="3" />
+    <item city="Белебей" street="Филимонковская улица" house="30" floor="2" />
+    <item city="Апатиты" street="Анатолия Харлампиева, улица" house="14" floor="4" />
+    <item city="Белово" street="Северная улица" house="5" floor="1" />
+    <item city="Анапа" street="Энгельса, улица" house="195" floor="5" />
+    <item city="Белореченск" street="1-й Богородский переулок" house="165" floor="3" />
+    <item city="Братск" street="Колхозная улица" house="64" floor="4" />
+    <item city="Азов" street="Институтская улица" house="98" floor="2" />
+    <item city="Бузулук" street="Стасовой, улица" house="81" floor="1" />
+    <item city="Абакан" street="Михаила Кондакова, улица" house="91" floor="3" />
+    <item city="Белореченск" street="Сосновая улица" house="146" floor="4" />
+    <item city="Балаково" street="Сорок Лет Октября, улица" house="30" floor="1" />
+    <item city="Ачинск" street="Центральная улица" house="70" floor="2" />
+    <item city="Видное" street="Сорок Лет Октября, улица" house="79" floor="1" />
+    <item city="Александров" street="Полковника милиции Курочкина, улица" house="14" floor="5" />
+    <item city="Балахна" street="3-я Майская улица" house="164" floor="3" />
+    <item city="Белово" street="Комсомольский проезд" house="174" floor="1" />
+    <item city="Асбест" street="Светлый бульвар" house="103" floor="1" />
+    <item city="Бийск" street="Богородская улица" house="107" floor="4" />
+    <item city="Брянск" street="Весенняя улица" house="100" floor="5" />
+    <item city="Великий Новгород" street="Академическая площадь" house="9" floor="3" />
+    <item city="Бийск" street="Генерала Трошева, улица" house="145" floor="2" />
+    <item city="Абакан" street="Садовая улица" house="165" floor="1" />
+    <item city="Альметьевск" street="Светлая улица" house="104" floor="2" />
+    <item city="Алексин" street="Софийская улица" house="56" floor="1" />
+    <item city="Березники" street="Фруктовая улица" house="7" floor="1" />
+    <item city="Боровичи" street="1-я Изумрудная улица" house="79" floor="1" />
+    <item city="Астрахань" street="Лагерная улица" house="91" floor="5" />
+    <item city="Арзамас" street="2-я Майская улица" house="111" floor="3" />
+    <item city="Артем" street="Еловая улица" house="167" floor="5" />
+    <item city="Барнаул" street="8-я Вишнёвая улица" house="20" floor="3" />
+    <item city="Владивосток" street="Набережная улица" house="3" floor="1" />
+    <item city="Белореченск" street="Фабричная площадь" house="142" floor="5" />
+    <item city="Благовещенск" street="Речная улица" house="146" floor="5" />
+    <item city="Анжеро-Судженск" street="Лермонтова, улица" house="190" floor="2" />
+    <item city="Астрахань" street="Чкалова, улица" house="165" floor="3" />
+    <item city="Белово" street="Просека, улица" house="47" floor="5" />
+    <item city="Балахна" street="Изумрудная улица" house="183" floor="4" />
+    <item city="Балахна" street="3-я Рыбацкая улица" house="191" floor="5" />
+    <item city="Анжеро-Судженск" street="Барыши, местечко" house="16" floor="1" />
+    <item city="Батайск" street="Толбухина, улица" house="122" floor="1" />
+    <item city="Белогорск" street="Урожайная улица" house="83" floor="1" />
+    <item city="Березники" street="Пушкинская улица" house="42" floor="1" />
+    <item city="Ачинск" street="Сиреневая улица" house="176" floor="2" />
+    <item city="Боровичи" street="Барыши, местечко" house="48" floor="1" />
+    <item city="Бор" street="Нагорная улица" house="74" floor="3" />
+    <item city="Ангарск" street="2-я Пионерская, улица" house="35" floor="5" />
+    <item city="Анжеро-Судженск" street="Трудовая улица" house="76" floor="3" />
+    <item city="Белгород" street="Сатинская аллея" house="10" floor="2" />
+    <item city="Артем" street="Октябрьский проспект" house="116" floor="2" />
+    <item city="Александров" street="Сиреневая улица" house="52" floor="3" />
+    <item city="Великий Новгород" street="Андреевская улица" house="175" floor="1" />
+    <item city="Великий Новгород" street="Московская улица" house="114" floor="4" />
+    <item city="Белебей" street="3-я Вишнёвая улица" house="99" floor="5" />
+    <item city="Балашов" street="Дошкольная улица" house="103" floor="1" />
+    <item city="Белогорск" street="Набережная улица" house="157" floor="3" />
+    <item city="Архангельск" street="Институтская улица" house="194" floor="2" />
+    <item city="Борисоглебск" street="Лесная улица (поселок Щапово)" house="30" floor="5" />
+    <item city="Белорецк" street="1-й Заречный переулок" house="164" floor="2" />
+    <item city="Белебей" street="Прибрежная улица" house="69" floor="1" />
+    <item city="Боровичи" street="Сосновая улица" house="45" floor="1" />
+    <item city="Буденновск" street="Академическая площадь" house="125" floor="3" />
+    <item city="Боровичи" street="3-я Лазурная улица" house="106" floor="2" />
+    <item city="Артем" street="Кленовый переулок" house="52" floor="3" />
+    <item city="Апатиты" street="Южный квартал" house="76" floor="1" />
+    <item city="Буйнакск" street="Парковый переулок" house="97" floor="3" />
+    <item city="Абакан" street="Прудная улица" house="44" floor="3" />
+    <item city="Александров" street="Чапаева, улица" house="118" floor="5" />
+    <item city="Александров" street="2-я Центральная улица" house="17" floor="1" />
+    <item city="Братск" street="Звёздная улица" house="29" floor="1" />
+    <item city="Алексин" street="Автомобильная дорога А-107" house="86" floor="3" />
+    <item city="Владивосток" street="Остафьевское шоссе" house="108" floor="4" />
+    <item city="Артем" street="2-я Центральная улица" house="60" floor="4" />
+    <item city="Благовещенск" street="1-я Рыбацкая улица" house="43" floor="4" />
+    <item city="Анжеро-Судженск" street="Барышевская Роща, улица" house="118" floor="3" />
+    <item city="Владивосток" street="5-я Майская улица" house="28" floor="2" />
+    <item city="Березники" street="Пушкинская улица" house="2" floor="1" />
+    <item city="Апатиты" street="Физическая улица" house="197" floor="4" />
+    <item city="Великий Новгород" street="Чайковского, улица" house="32" floor="5" />
+    <item city="Бийск" street="3-я Пионерская улица" house="75" floor="2" />
+    <item city="Апатиты" street="1-й Заречный переулок" house="123" floor="1" />
+    <item city="Ачинск" street="Рождественский переулок" house="132" floor="2" />
+    <item city="Альметьевск" street="Анны Воиновой, улица" house="116" floor="2" />
+    <item city="Артем" street="Подольская улица" house="1" floor="5" />
+    <item city="Балашов" street="Садовый квартал, улица" house="28" floor="4" />
+    <item city="Биробиджан" street="Тимирязева, улица" house="149" floor="3" />
+    <item city="Белогорск" street="Новостроевская улица" house="63" floor="2" />
+    <item city="Апатиты" street="Мичурина, улица" house="103" floor="1" />
+    <item city="Бугульма" street="Быковская улица" house="69" floor="5" />
+    <item city="Асбест" street="Индустриальная улица" house="185" floor="1" />
+    <item city="Артем" street="Академическая площадь" house="52" floor="3" />
+    <item city="Александров" street="Мичурина, улица" house="166" floor="1" />
+    <item city="Белово" street="Суворова, улица" house="145" floor="5" />
+    <item city="Альметьевск" street="Флотская улица" house="55" floor="3" />
+    <item city="Альметьевск" street="Сатинская аллея" house="187" floor="4" />
+    <item city="Верхняя Пышма" street="Обводная Дорога, улица" house="75" floor="2" />
+    <item city="Белебей" street="Юбилейная улица" house="20" floor="5" />
+    <item city="Березники" street="Лагерная улица" house="10" floor="1" />
+    <item city="Астрахань" street="Щербинский проезд" house="69" floor="4" />
+    <item city="Березовский" street="Гоголя, улица" house="57" floor="2" />
+    <item city="Борисоглебск" street="3-я Майская улица" house="14" floor="1" />
+    <item city="Владивосток" street="Мирная улица" house="90" floor="1" />
+    <item city="Белгород" street="Садовый квартал, улица" house="119" floor="2" />
+    <item city="Буденновск" street="Железнодорожная улица" house="127" floor="5" />
+    <item city="Брянск" street="Берёзовая улица (поселок Марьино)" house="106" floor="2" />
+    <item city="Алексин" street="2-я Центральная улица" house="199" floor="1" />
+    <item city="Березовский" street="Речная улица" house="180" floor="2" />
+    <item city="Владивосток" street="Нижняя улица" house="3" floor="5" />
+    <item city="Артем" street="Симферопольская улица" house="104" floor="4" />
+    <item city="Верхняя Пышма" street="Индустриальная улица" house="110" floor="5" />
+    <item city="Братск" street="Космонавтов, улица" house="70" floor="5" />
+    <item city="Арсеньев" street="Восточная улица" house="6" floor="1" />
+    <item city="Березники" street="Стасовой, улица" house="60" floor="5" />
+    <item city="Александров" street="Живописная улица" house="91" floor="2" />
+    <item city="Боровичи" street="Первомайская улица" house="173" floor="5" />
+    <item city="Бугульма" street="Сатинская аллея" house="108" floor="5" />
+    <item city="Балашов" street="Садовая улица" house="119" floor="4" />
+    <item city="Буденновск" street="Берёзовая улица (поселок Марьино)" house="143" floor="1" />
+    <item city="Анапа" street="Рождественский переулок" house="9" floor="1" />
+    <item city="Алексин" street="Берёзовая улица (поселок Марьино)" house="52" floor="1" />
+    <item city="Артем" street="1-й Терновый переулок" house="167" floor="2" />
+    <item city="Балахна" street="Светлый бульвар" house="192" floor="3" />
+    <item city="Братск" street="Щербинский проезд" house="155" floor="2" />
+    <item city="Ангарск" street="Маяковского, улица" house="105" floor="4" />
+    <item city="Великие Луки" street="Летняя улица" house="143" floor="2" />
+    <item city="Великие Луки" street="Чапаева, улица" house="48" floor="3" />
+    <item city="Благовещенск" street="Рождественский переулок" house="105" floor="1" />
+    <item city="Балашов" street="Совхозная улица" house="88" floor="3" />
+    <item city="Бердск" street="Прудная улица" house="185" floor="1" />
+    <item city="Алексин" street="Лагерный переулок" house="125" floor="5" />
+    <item city="Борисоглебск" street="Садовый квартал, улица" house="157" floor="2" />
+    <item city="Великие Луки" street="Водопроводная улица" house="107" floor="5" />
+    <item city="Балашов" street="Театральная улица" house="67" floor="2" />
+    <item city="Анжеро-Судженск" street="Анны Воиновой, улица" house="186" floor="5" />
+    <item city="Бугульма" street="4-я Вишнёвая улица" house="34" floor="2" />
+</root>
