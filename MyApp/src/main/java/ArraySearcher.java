@@ -6,7 +6,7 @@ public class ArraySearcher {
 
         for(int i = 0; i < arr.length; i++){
 
-            if(arr[i] > buffer){
+            if(arr[i] >= buffer){
               index = i;
               buffer = arr[i];
             }
@@ -26,7 +26,7 @@ public class ArraySearcher {
             System.out.print(a + " ");
         }
 
-        System.out.println("\nИндекс наибольшего элемента: " + index);
+        System.out.println("\nИндекс наибольшего элемента, начиная с нулевого: " + index);
 
     }
 
